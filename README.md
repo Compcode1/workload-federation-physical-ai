@@ -48,12 +48,12 @@ The absolute structural integrity of this lab is verified within the ledger by f
 
 ### Strategic Alignment: Connecting the Hardening Framework to Applied Intuition Role Demands
 
-The transition from the foundational Passwordless Workload Federation Framework to the production-ready specifications of the Identity Architecture Ledger (IAL) represents the direct application of the AI and Cloud Pipeline Hardening Framework to the unique security constraints of Physical AI. In an ecosystem like Applied Intuition's—where software infrastructure powers autonomous systems across the automotive, defense, and trucking sectors—vulnerabilities in non-human identities present high-stakes physical risks. 
+The transition from the foundational Passwordless Workload Federation Framework to the production-ready specifications of the Identity Architecture Ledger (IAL) represents the direct application of the AI and Cloud Pipeline Hardening Framework to the unique security constraints of Physical AI. In an ecosystem  where software infrastructure powers autonomous systems across the automotive, defense, and trucking sectors—vulnerabilities in non-human identities present high-stakes physical risks. 
 
-This mini-project serves as a direct engineering proof-of-concept for the core competencies demanded by the **Technical Lead - Identity & Access Management** role at Applied Intuition, specifically anchoring three critical pillars of the position's mandate:
+This mini-project serves as a direct engineering proof-of-concept for the core competencies demanded by the **Technical Lead - Identity & Access Management** role, specifically anchoring three critical pillars of the position's mandate:
 
 #### 1. Designing Scalable Access Models for AI Agents and Bots
-The Applied Intuition role explicitly calls for an identity expert to *“design and deliver a scalable access management model for AI agents and bots.”* This project directly implements that requirement. AI workloads and headless simulation bots cannot rely on human authentication patterns or high-maintenance static client secrets. 
+This role explicitly calls for an identity expert to *“design and deliver a scalable access management model for AI agents and bots.”* This project directly implements that requirement. AI workloads and headless simulation bots cannot rely on human authentication patterns or high-maintenance static client secrets. 
 
 By mapping out this architecture, we successfully built an enterprise-grade machine identity model. Instead of provisioning vulnerable, long-lived credentials that could leak and compromise critical autonomy or simulation repositories, the AI agent dynamically proves its identity using short-lived OpenID Connect (OIDC) assertions.
 
