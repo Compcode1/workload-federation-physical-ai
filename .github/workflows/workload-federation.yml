@@ -11,9 +11,9 @@ permissions:
   contents: read  
 
 env:
-  AZURE_CLIENT_ID: "22df9133-520e-4fd6-b456-e564190116fc"  # <- Updated to your active Client GUID
+  AZURE_CLIENT_ID: "22df9133-520e-4fd6-b456-e564190116fc"
   AZURE_TENANT_ID: "9439dd25-f3b5-4829-a76f-5ede8cd54c3c"
-  AZURE_SUBSCRIPTION_ID: "450d035a-9426-47c0-a7b2-841315b9c240"
+  AZURE_SUBSCRIPTION_ID: "b87b7de3-b45a-4712-a160-b98450f3ff0f" # <- Corrected to your real Subscription GUID
   KEY_VAULT_NAME: "kv-compcode1-ai-vault"
   SECRET_NAME: "ai-bot-secret"
 
