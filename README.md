@@ -3,7 +3,7 @@
 ## Project Mission
 Modern Physical AI platforms and autonomous vehicle simulation workloads process massive streams of synthetic sensor data and proprietary model configurations across complex multi-cloud ecosystems. Traditional machine identity models rely heavily on long-lived, static passwords or client secrets, creating a significant threat surface for credential leaks, compliance failures, and lateral movement.
 
-This project delivers an production-ready, hands-on implementation of **Workload Identity Federation (WIF)** using **OpenID Connect (OIDC)** and **OAuth 2.0** protocols to completely eliminate static passwords. By establishing an explicit federated trust relationship between an external automated execution context (such as a DevSecOps pipeline or an autonomous simulation compute runner) and a centralized identity registry (Microsoft Entra ID), the machine principal dynamically trades short-lived, cryptographically signed identity assertions for temporary data-plane tokens.
+This project delivers a production-ready, hands-on implementation of **Workload Identity Federation (WIF)** using **OpenID Connect (OIDC)** and **OAuth 2.0** protocols to completely eliminate static passwords. By establishing an explicit federated trust relationship between an external automated execution context (such as a DevSecOps pipeline or an autonomous simulation compute runner) and a centralized identity registry (Microsoft Entra ID), the machine principal dynamically trades short-lived, cryptographically signed identity assertions for temporary data-plane tokens.
 
 ---
 
