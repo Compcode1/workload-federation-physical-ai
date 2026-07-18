@@ -5,7 +5,7 @@ In the world of Physical AI—which includes autonomous vehicles, robotics, and 
 
 Traditionally, engineers grant these bots access by giving them static passwords or secrets. The massive flaw? If a human accidentally leaks that password, a malicious actor can steal proprietary AI models or corrupt the real-world machinery.
 
-This repository demonstrates a mini-project that completely solves this problem. It serves as a live execution of the **AI and Cloud Pipeline Hardening Framework**, a structured architectural process developed by Steven Tuschman. Instead of using vulnerable passwords, this framework establishes a "passwordless digital handshake" (Workload Identity Federation) between the automated bots and the cloud perimeter. The bot presents a temporary, cryptographically signed digital passport that expires in minutes, making identity theft virtually impossible.
+This repository demonstrates a mini-project that completely solves this problem. It serves as a live execution of the **AI and Cloud Pipeline Hardening Framework**, a structured architectural process developed by Steven Tuschman. Instead of using vulnerable passwords, this framework establishes a "passwordless digital handshake" (Workload Identity Federation) between the automated bots and the cloud perimeter. The bot presents a short-lived, cryptographically signed digital token that automatically expires after 60 minutes, making long-term identity theft virtually impossible
 
 ---
 
