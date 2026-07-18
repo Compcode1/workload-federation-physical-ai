@@ -12,7 +12,7 @@ permissions:
 
 env:
   AZURE_CLIENT_ID: "667ff4bc-dbfc-43b9-a29d-47672da104a3"
-  AZURE_TENANT_ID: "074bd0ff-1910-449e-a894-3ec9381db2be"
+  AZURE_TENANT_ID: "9439dd25-f3b5-4829-a76f-5ede8cd54c3c"
   AZURE_SUBSCRIPTION_ID: "450d035a-9426-47c0-a7b2-841315b9c240"
   KEY_VAULT_NAME: "kv-compcode1-ai-vault"
   SECRET_NAME: "ai-bot-secret"
