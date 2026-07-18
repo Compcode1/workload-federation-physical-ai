@@ -12,7 +12,7 @@ This repository demonstrates a mini-project that completely solves this problem.
 ## My Methodology: The Process & The Ledger
 I do not configure cloud security in a freeform or casual manner. This project is a direct demonstration of how my framework applies a strict, predictable engineering blueprint to any target industry. 
 
-The mandatory, standard output of this process is the **Identity Architecture Ledger (IAL)**. The ledger is a master engineering record that maps every moving part of the identity plane down to hard boolean (True/False) verification gates. By utilizing this ledger system, I ensure that any machine identity I configure is 100% auditable, fully compliant with Zero Trust parameters, and completely reproducible across different multi-cloud environments.
+The mandatory, standard output of this process is the **Identity Architecture Ledger (IAL)**. The ledger is a master engineering record that maps every moving part of the identity plane down to hard boolean (True/False) verification gates. By utilizing this ledger system, I ensure that any machine identity I configure is 100% auditable, fully compliant with Zero Trust parameters, and completely reproducible across different multi-cloud environments. 
 
 ---
 
